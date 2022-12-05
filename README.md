@@ -1,5 +1,6 @@
-# Getting Started with Create React bapp
+# Getting Started with Create React app
 
+## I will read [reactjs.org completely](https://reactjs.org/docs/getting-started.html#staying-informed)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
